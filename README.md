@@ -1,18 +1,18 @@
 <p align="center">
-  <a href="https://github.com/priyal-sompura"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Priyal%20Sompura&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Data%20Science%20%C2%B7%20Data%20Analytics%20%C2%B7%20ETL%20Pipelines&descSize=24&descAlignY=64" width="100%" alt="Priyal Sompura, Data Science & Analytics" /></a>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+turning+raw+data+into+decisions.;%3E+building+automated+ETL+pipelines.;%3E+SQL+%C2%B7+Python+%C2%B7+Airflow+%C2%B7+Power+BI." width="100%" alt="Priyal Sompura typing lines" />
+  <a href="https://github.com/priyal-sompura"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B0F19,100:00D2DF&height=220&section=header&text=Priyal%20Sompura&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Data%20Science%20%C2%B7%20Data%20Analytics%20%C2%B7%20ETL%20Pipelines&descSize=24&descAlignY=64" width="100%" alt="Priyal Sompura, Data Science & Analytics" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=00D2DF&background=0B0F19&center=true&vCenter=true&width=854&height=64&lines=%3E+turning+raw+data+into+decisions.;%3E+building+automated+ETL+pipelines.;%3E+SQL+%C2%B7+Python+%C2%B7+Airflow+%C2%B7+Power+BI." width="100%" alt="Priyal Sompura typing lines" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyal-sompura"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://github.com/priyal-sompura?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-A21517?style=for-the-badge" alt="All Repositories" /></a>
-  <a href="mailto:priyalmsompura143@gmail.com"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/priyal-sompura"><img src="https://img.shields.io/badge/LinkedIn-00D2DF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0B0F19" alt="LinkedIn" /></a>
+  <a href="https://github.com/priyal-sompura?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-00D2DF?style=for-the-badge&logo=github&logoColor=black&labelColor=0B0F19" alt="All Repositories" /></a>
+  <a href="mailto:priyalmsompura143@gmail.com"><img src="https://img.shields.io/badge/Email-00D2DF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0B0F19" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/2nd_Rank-SQL_&_Power_BI-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="2nd Rank SQL and Power BI" />
-  <img src="https://img.shields.io/badge/6_Repos-Data_&_Analytics-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Total Repositories" />
-  <img src="https://img.shields.io/badge/MCA_Candidate-Data_Science-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="MCA Candidate" />
+  <img src="https://img.shields.io/badge/2nd_Rank-SQL_&_Power_BI-79C0FF?style=for-the-badge&labelColor=0B0F19" alt="2nd Rank SQL and Power BI" />
+  <img src="https://img.shields.io/badge/6_Repos-Data_&_Analytics-79C0FF?style=for-the-badge&labelColor=0B0F19" alt="Total Repositories" />
+  <img src="https://img.shields.io/badge/MCA_Candidate-Data_Science-79C0FF?style=for-the-badge&labelColor=0B0F19" alt="MCA Candidate" />
 </p>
 
 ## 🧬 about
@@ -67,7 +67,7 @@ me = {
         <code>Python</code> <code>MySQL</code> <code>Power BI</code> <code>Excel</code> <code>Pandas</code> <code>Healthcare Analytics</code>
       </p>
       <p>
-        <a href="https://github.com/priyal-sompura/nfhs-survey-nutrition-analysis"><img src="https://img.shields.io/badge/view_code-A21517?style=flat-square" alt="View Code" /></a>
+        <a href="https://github.com/priyal-sompura/nfhs-survey-nutrition-analysis"><img src="https://img.shields.io/badge/view_code-00D2DF?style=flat-square&labelColor=0B0F19" alt="View Code" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -78,7 +78,7 @@ me = {
         <code>SQL</code> <code>MySQL 8.0</code> <code>Window Functions</code> <code>CTEs</code> <code>Pricing Analytics</code> <code>Relational Schema</code>
       </p>
       <p>
-        <a href="https://github.com/priyal-sompura/airbnb-nyc-market-analysis"><img src="https://img.shields.io/badge/view_code-A21517?style=flat-square" alt="View Code" /></a>
+        <a href="https://github.com/priyal-sompura/airbnb-nyc-market-analysis"><img src="https://img.shields.io/badge/view_code-00D2DF?style=flat-square&labelColor=0B0F19" alt="View Code" /></a>
       </p>
     </td>
   </tr>
@@ -91,7 +91,7 @@ me = {
         <code>SQL</code> <code>Sales Analytics</code> <code>Feature Engineering</code> <code>KPI Reporting</code> <code>Business Intelligence</code>
       </p>
       <p>
-        <a href="https://github.com/priyal-sompura/amazon-supermarket-sales"><img src="https://img.shields.io/badge/view_code-A21517?style=flat-square" alt="View Code" /></a>
+        <a href="https://github.com/priyal-sompura/amazon-supermarket-sales"><img src="https://img.shields.io/badge/view_code-00D2DF?style=flat-square&labelColor=0B0F19" alt="View Code" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -102,7 +102,7 @@ me = {
         <code>SQL</code> <code>Stored Procedures</code> <code>Views</code> <code>Database Architecture</code> <code>Data Modeling</code> <code>Transit Analytics</code>
       </p>
       <p>
-        <a href="https://github.com/priyal-sompura/mumbai-smart-transit"><img src="https://img.shields.io/badge/view_code-A21517?style=flat-square" alt="View Code" /></a>
+        <a href="https://github.com/priyal-sompura/mumbai-smart-transit"><img src="https://img.shields.io/badge/view_code-00D2DF?style=flat-square&labelColor=0B0F19" alt="View Code" /></a>
       </p>
     </td>
   </tr>
@@ -115,7 +115,7 @@ me = {
         <code>SQL</code> <code>Event Streaming</code> <code>Session Logic</code> <code>User Behavior</code> <code>Product Analytics</code> <code>Case Study</code>
       </p>
       <p>
-        <a href="https://github.com/priyal-sompura/music-streaming-events"><img src="https://img.shields.io/badge/view_code-A21517?style=flat-square" alt="View Code" /></a>
+        <a href="https://github.com/priyal-sompura/music-streaming-events"><img src="https://img.shields.io/badge/view_code-00D2DF?style=flat-square&labelColor=0B0F19" alt="View Code" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -126,7 +126,7 @@ me = {
         <code>SQL</code> <code>Time-Series Aggregations</code> <code>Data Modeling</code> <code>Urban Mobility</code> <code>Operational Reporting</code>
       </p>
       <p>
-        <a href="https://github.com/priyal-sompura/smart-city-transport-optimization"><img src="https://img.shields.io/badge/view_code-A21517?style=flat-square" alt="View Code" /></a>
+        <a href="https://github.com/priyal-sompura/smart-city-transport-optimization"><img src="https://img.shields.io/badge/view_code-00D2DF?style=flat-square&labelColor=0B0F19" alt="View Code" /></a>
       </p>
     </td>
   </tr>
@@ -145,14 +145,14 @@ me = {
 ## 📊 github pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyal-sompura&show_icons=true&bg_color=0A0A0A&title_color=E5EE4E&text_color=FFFFFF&icon_color=A21517&border_color=A21517&hide_border=false" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyal-sompura&background=0A0A0A&ring=E5EE4E&fire=A21517&currStreakLabel=E5EE4E&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=ECBDD8&border=A21517" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyal-sompura&show_icons=true&bg_color=0B0F19&title_color=00D2DF&text_color=FFFFFF&icon_color=79C0FF&border_color=00D2DF&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyal-sompura&background=0B0F19&ring=00D2DF&fire=00D2DF&currStreakLabel=00D2DF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=79C0FF&border=00D2DF" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center"><b>Working on data pipelines, analytics, or ML? Let's connect.</b></p>
 
 <p align="center">
-  <a href="mailto:priyalmsompura143@gmail.com"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Email me" /></a>
+  <a href="mailto:priyalmsompura143@gmail.com"><img src="https://img.shields.io/badge/say_hi-00D2DF?style=for-the-badge&logoColor=black&labelColor=0B0F19" alt="Email me" /></a>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=clean%20data%2C%20clear%20insights.&fontSize=28&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Clean data, clear insights" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00D2DF,100:0B0F19&height=90&section=footer&text=clean%20data%2C%20clear%20insights.&fontSize=28&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Clean data, clear insights" /></p>
